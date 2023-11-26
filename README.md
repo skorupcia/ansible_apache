@@ -1,2 +1,7 @@
 # MACOS Ansible apache configuration with vagrant and Parallels
-vagrant box: ento-rockylinux-9-aarch64
+
+macOS: Sonoma 14.1.1
+
+Vagrant Box: bento-rockylinux-9-aarch64
+
+Parallels: 19.1.1
